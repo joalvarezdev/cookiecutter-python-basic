@@ -6,6 +6,7 @@
   "company": "",
   "project_name": "project-name",
   "repo_name": "python-project-name",
+  "project_description": "description",
   "short_description": "Python Project name",
   "release_date": "2024-03-03",
   "year": "2024",
