@@ -14,6 +14,9 @@ configure:
 	@$(GIT_INIT)
 	@$(PRE_COMMIT_CONFIG)
 
+init:
+	@poetry shell
+
 build:
 	@poetry update
 
